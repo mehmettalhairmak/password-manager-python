@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db1fc1d-116b-4e23-99a2-fab2834f3139" name="Changes" comment="removed angela insert">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="9db1fc1d-116b-4e23-99a2-fab2834f3139" name="Changes" comment="IDE Config." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +106,7 @@
       <updated>1713031246449</updated>
       <workItem from="1713031247964" duration="4203000" />
       <workItem from="1713036158359" duration="762000" />
-      <workItem from="1713091020461" duration="2607000" />
+      <workItem from="1713091020461" duration="3298000" />
     </task>
     <task id="LOCAL-00001" summary="Python password manager app">
       <option name="closed" value="true" />
@@ -127,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713036301224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added find password function">
+      <option name="closed" value="true" />
+      <created>1713105863175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105863175</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IDE Config.">
+      <option name="closed" value="true" />
+      <created>1713105871867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713105871867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,9 +157,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python password manager app" />
     <MESSAGE value="removed angela insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed angela insert" />
+    <MESSAGE value="added find password function" />
+    <MESSAGE value="IDE Config." />
+    <option name="LAST_COMMIT_MESSAGE" value="IDE Config." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/password_manager$main.coverage" NAME="main Coverage Results" MODIFIED="1713091269666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/password_manager$main.coverage" NAME="main Coverage Results" MODIFIED="1713105790214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
